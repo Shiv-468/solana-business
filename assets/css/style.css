@@ -190,6 +190,13 @@ line-height: 180%; /* 32.4px */
 .pb-68{
     padding-bottom: 68px;
 }
+.footer-img{
+    width: 524px;
+    height: 104px;
+}
+.mt-88{
+    margin-top: 88px;
+}
 @media (max-width:992px) {
     label[for="menu-box"]>span {
         width: 100%;
