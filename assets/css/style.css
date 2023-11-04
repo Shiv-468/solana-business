@@ -149,6 +149,9 @@
     line-height: 180%;
     /* 32.4px */
 }
+ul{
+    padding-left: 0;
+}
 
 .btn-2 {
 
@@ -242,6 +245,24 @@
 .w-866 {
     max-width: 866px;
     width: 100%;
+}
+.position-relative-2{
+    position: relative;
+}
+.position-absolute-9{
+    position: absolute;
+    top: 2%;
+    left: 13%;
+}
+.position-absolute-10{
+    position: absolute;
+    top: 33%;
+    left: 2%;
+}
+.position-absolute-11{
+    position: absolute;
+    top: 10%;
+    right: 10%;
 }
 
 .copy-font {
