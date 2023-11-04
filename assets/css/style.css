@@ -281,7 +281,7 @@ ul{
 
 .footer-hed {
     color: #000;
-
+margin-bottom: 0;
     /* Body ,semibold-18 */
     font-family: 'Poppins', sans-serif;
     font-size: 18px;
@@ -312,6 +312,9 @@ ul{
     --bs-accordion-btn-focus-border-color: none;
     --bs-accordion-btn-focus-box-shadow: none;
     --bs-accordion-border-color: #F6E300;
+}
+.accordion-item{
+    margin-bottom: 7px;
 }
 
 @media (max-width:992px) {
