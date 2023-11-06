@@ -13,6 +13,7 @@
 }
 .image-width{
     max-width: 806px;
+    z-index: 2;
 }
 
 .bg-color-2 {
@@ -76,8 +77,8 @@
 }
 
 .position-absolute {
-    top: 0%;
-    left: 0%;
+    top: 2%;
+    left: 6%;
 }
 
 .btn-2:hover {
@@ -87,7 +88,7 @@
 
 .position-absolute-2 {
     position: absolute;
-    top: 52%;
+    top: 58%;
     left: 18%;
 
 }
@@ -100,26 +101,27 @@
 
 .position-absolute-4 {
     position: absolute;
-    right: 4%;
+    right: 3%;
     top: 48%;
 }
 
 .position-absolute-5 {
     position: absolute;
-    left: 23%;
-    top: 15%;
+    left: 25%;
+    top: 11%;
+    z-index: 1;
 }
 
 .position-absolute-6 {
     position: absolute;
-    left: 4%;
+    left: 0%;
     top: 42%;
 }
 
 .position-absolute-7 {
     position: absolute;
     top: 0%;
-    right: 3%;
+    right: 5%;
 
 }
 
